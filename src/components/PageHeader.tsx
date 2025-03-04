@@ -151,8 +151,8 @@ const Portfolio = () => {
                 greeted visitors at the front desk, providing assistance or
                 directing them to the appropriate department. My role required
                 attention to detail, strong organizational skills, and effective
-                communication to support the township's operations and assist
-                residents with their needs.
+                communication to support the township&apos;s operations and
+                assist residents with their needs.
               </p>
               <h3 className="text-lg font-semibold">
                 Warehouse/ Event Delivery Crew - K&J Party Rental
