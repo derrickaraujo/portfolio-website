@@ -128,15 +128,14 @@ const Portfolio = () => {
                 Sep. 2024 - Present | Fort Leonard Wood, MO
               </p>
               <p className="text-gray-700">
-                Gained hands-on experience in the planning, design, and
-                execution of construction projects related to roads, highways,
-                and other infrastructure. Assisted in the setup and operation of
-                heavy machinery such as graders, bulldozers, and excavators,
-                conducted site surveys, measured and staked out construction
-                zones, and ensured compliance with safety and quality standards.
-                Collaborated with senior engineers to monitor project progress,
-                troubleshoot issues, and maintain efficient workflows.
-              </p>
+                As a Horizontal Construction Engineer, I gained
+                experience in project planning, strategic decision-making, and
+                process efficiency, which are critical in financial analysis
+                roles. Collaborating with senior engineers, I analyzed project
+                timelines, material usage, and operational logistics, applying
+                quantitative thinking to real-world problems. This hands-on
+                training enhanced my discipline, teamwork, and attention to
+                detail in complex operations.
               <h3 className="text-lg font-semibold">
                 Administration Assistant - Union Township Municipal Building
               </h3>
@@ -144,15 +143,15 @@ const Portfolio = () => {
                 May. 2024 - Sep. 2024 | Union Township, NJ
               </p>
               <p className="text-gray-700">
-                As an Administrative Assistant for the township building, I
-                focused on organizing and managing property records and
-                documents, ensuring they were properly filed and easily
-                accessible. I answered phone calls, directed inquiries, and
-                greeted visitors at the front desk, providing assistance or
-                directing them to the appropriate department. My role required
-                attention to detail, strong organizational skills, and effective
-                communication to support the township&apos;s operations and
-                assist residents with their needs.
+                At the Union Township Municipal Building, I managed and
+                organized property and administrative records with attention to
+                detail, assisting in data entry and document organization for
+                municipal reports, which helped develop strong analytical and
+                record-keeping skills. I also provided support in managing
+                correspondence, handling inquiries, and coordinating office
+                tasks efficiently while strengthening my problem-solving and
+                multitasking abilities by addressing resident concerns and
+                assisting with administrative duties.
               </p>
               <h3 className="text-lg font-semibold">
                 Warehouse/ Event Delivery Crew - K&J Party Rental
@@ -161,11 +160,11 @@ const Portfolio = () => {
                 Sep. 2016 - Aug. 2022 | Nazareth, PA
               </p>
               <p className="text-gray-700">
-                As a part of the warehouse/event delivery crew, I prepared and
-                executed event setups, ensuring that all equipment, including
-                tents, tables, chairs, and inflatables, are safely and
-                efficiently set up to meet the specific requirements of each
-                event.
+                At K&J Party Rentals, I maintained warehouse organization,
+                assisted in inventory management, and ensured equipment was
+                properly maintained. Working in a physically demanding and
+                fast-paced environment strengthened my teamwork,
+                problem-solving, and time management skills.
               </p>
             </div>
             <motion.button
